@@ -1,16 +1,44 @@
-# user_list_app
+# 👤 Flutter User List App
 
-A new Flutter project.
+A simple Flutter application that demonstrates:
 
-## Getting Started
+- Responsive UI
+- REST API Integration
+- State Management using Provider
+- Local state update
+- Bonus Features: Search, Page Transitions, and Error Handling
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+✅ Fetch user list from API  
+✅ View detailed user information  
+✅ Add new user locally via form  
+✅ Responsive layout (mobile, tablet, desktop)  
+✅ Search bar to filter users  
+✅ Animated page transitions  
+✅ Error handling for API (e.g., no internet)  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🌐 API Used
+
+[https://jsonplaceholder.typicode.com/users](https://jsonplaceholder.typicode.com/users)
+
+- Method: `GET`
+- Response: List of users (JSON)
+
+---
+
+## ⚙️ Tech Stack
+
+- **Flutter** (UI framework)
+- **Dart** (Programming language)
+- **Provider** (State management)
+- **HTTP package** (API calls)
+
+---
+
+## 📁 Folder Structure
+
